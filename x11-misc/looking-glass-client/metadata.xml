@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+<use>
+	<flag name='clipboard'>Enable X11 clipboard integration</flag>
+	<flag name='backtrace'>Enable </flag>
+	<flag name='egl'>Enable the EGL renderer</flag>
+	<flag name='opengl'>Enable Legacy OpenGL renderer</flag>
+</use>
+</pkgmetadata>
